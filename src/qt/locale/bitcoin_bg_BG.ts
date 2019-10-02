@@ -62,12 +62,12 @@
         <translation>Адрес за получаване</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Тези са вашите Litecoin адреси за изпращане на монети. Винаги проверявайте количеството и получаващия адрес преди изпращане. </translation>
+        <source>These are your CateCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Тези са вашите CateCoin адреси за изпращане на монети. Винаги проверявайте количеството и получаващия адрес преди изпращане. </translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Това са вашите Litecoin адреси за получаване на монети. Препоръчително е да ползвате нов адрес на всяка транзакция.</translation>
+        <source>These are your CateCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Това са вашите CateCoin адреси за получаване на монети. Препоръчително е да ползвате нов адрес на всяка транзакция.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -442,6 +442,10 @@
         <translation>Редактирайте адреса</translation>
     </message>
     <message>
+        <source>New receiving address</source>
+        <translation>Нов адрес за получаване</translation>
+    </message>
+    <message>
         <source>New sending address</source>
         <translation>Нов адрес за изпращане</translation>
     </message>
@@ -674,10 +678,6 @@
         <source>Label</source>
         <translation>Етикет</translation>
     </message>
-    <message>
-        <source>Wallet</source>
-        <translation>портфейл</translation>
-    </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
@@ -894,8 +894,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin ядро</translation>
+        <source>CateCoin Core</source>
+        <translation>CateCoin ядро</translation>
     </message>
     <message>
         <source>Information</source>

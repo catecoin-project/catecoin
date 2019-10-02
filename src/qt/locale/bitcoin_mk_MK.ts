@@ -138,7 +138,7 @@
         <translation>Повторно индексирање на блокови од дискот...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
+        <source>Send coins to a CateCoin address</source>
         <translation>Испрати биткоини на Биткоин адреса</translation>
     </message>
     <message>
@@ -146,7 +146,7 @@
         <translation>&amp;Потврди порака...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
+        <source>CateCoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -299,7 +299,7 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Litecoin</source>
+        <source>CateCoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -498,10 +498,6 @@
         <source>&amp;Save Image...</source>
         <translation>&amp;Сними Слика...</translation>
     </message>
-    <message>
-        <source>Wallet</source>
-        <translation>Паричник</translation>
-    </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
@@ -590,7 +586,11 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
+        <source>Options:</source>
+        <translation>Опции:</translation>
+    </message>
+    <message>
+        <source>CateCoin Core</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>

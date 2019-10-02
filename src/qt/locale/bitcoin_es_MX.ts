@@ -30,10 +30,6 @@
         <translation>Eliminar la dirección actualmente seleccionada de la lista</translation>
     </message>
     <message>
-        <source>Enter address or label to search</source>
-        <translation>Ingrese dirección o capa a buscar </translation>
-    </message>
-    <message>
         <source>Export the data in the current tab to a file</source>
         <translation>Exportar la información en la tabla actual a un archivo</translation>
     </message>
@@ -66,12 +62,12 @@
         <translation>Direcciones de recibo</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son tus direcciones de Litecoin para enviar pagos. Siempre revisa el monto y la dirección de envío antes de enviar monedas.</translation>
+        <source>These are your CateCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son tus direcciones de CateCoin para enviar pagos. Siempre revisa el monto y la dirección de envío antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones de Litecoin para recibir pagos. Se recomienda utilizar una nueva dirección de recepción para cada transacción.</translation>
+        <source>These are your CateCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones de CateCoin para recibir pagos. Se recomienda utilizar una nueva dirección de recepción para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -198,8 +194,8 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Enviar monedas a una dirección Litecoin</translation>
+        <source>Send coins to a CateCoin address</source>
+        <translation>Enviar monedas a una dirección CateCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -222,8 +218,8 @@
         <translation>&amp;Verificar mensaje...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -373,12 +369,20 @@
         <source>Command-line options</source>
         <translation>opciones de la Linea de comandos</translation>
     </message>
-</context>
+    <message>
+        <source>Usage:</source>
+        <translation>Uso:</translation>
+    </message>
+    <message>
+        <source>command-line options</source>
+        <translation>Opciones de comando de lineas</translation>
+    </message>
+    </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -470,8 +474,8 @@
         <translation>Mensaje:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
-        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de Litecoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CateCoin network.</source>
+        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de CateCoin.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -487,10 +491,6 @@
     <message>
         <source>Copy &amp;Address</source>
         <translation>&amp;Copiar dirección</translation>
-    </message>
-    <message>
-        <source>Wallet</source>
-        <translation>Cartera</translation>
     </message>
     </context>
 <context>
@@ -656,12 +656,24 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>nucleo Litecoin</translation>
+        <source>Options:</source>
+        <translation>Opciones:</translation>
+    </message>
+    <message>
+        <source>CateCoin Core</source>
+        <translation>nucleo CateCoin</translation>
+    </message>
+    <message>
+        <source>&lt;category&gt; can be:</source>
+        <translation>&lt;categoria&gt; puede ser:</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
         <translation>Verificando bloques...</translation>
+    </message>
+    <message>
+        <source>Wallet options:</source>
+        <translation>Opciones de cartera:</translation>
     </message>
     <message>
         <source>Information</source>

@@ -90,8 +90,8 @@
         <translation>&amp;செய்தியை சரிசெய்...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -225,8 +225,8 @@
         <translation>நல்வரவு</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -580,10 +580,6 @@
         <source>Address</source>
         <translation>முகவரி</translation>
     </message>
-    <message>
-        <source>Wallet</source>
-        <translation>பணப்பை</translation>
-    </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
@@ -712,8 +708,12 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin மையம்</translation>
+        <source>CateCoin Core</source>
+        <translation>CateCoin மையம்</translation>
+    </message>
+    <message>
+        <source>(default: %u)</source>
+        <translation>(default: %u)</translation>
     </message>
     <message>
         <source>Information</source>
@@ -722,6 +722,10 @@
     <message>
         <source>Warning</source>
         <translation>எச்சரிக்கை</translation>
+    </message>
+    <message>
+        <source>(default: %s)</source>
+        <translation>(default: %s)</translation>
     </message>
     <message>
         <source>Error</source>

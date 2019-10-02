@@ -30,10 +30,6 @@
         <translation>Supprimer l'adresse sélectionnée de la liste</translation>
     </message>
     <message>
-        <source>Enter address or label to search</source>
-        <translation>Entrez une adresse ou une étiquette à rechercher</translation>
-    </message>
-    <message>
         <source>Export the data in the current tab to a file</source>
         <translation>Exporter les données de l'onglet courant vers un fichier</translation>
     </message>
@@ -47,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Choisissez une adresse où envoyer les litecoins</translation>
+        <translation>Choisissez une adresse où envoyer les catecoins</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Choisissez une adresse où recevoir les litecoins</translation>
+        <translation>Choisissez une adresse où recevoir les catecoins</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -66,12 +62,12 @@
         <translation>Adresses de réception</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ceci sont vos addresses Litecoin pour envoyer vos paiements. Il faut toujours verifier les montants et l'addresse de reception avant de valider la transaction.</translation>
+        <source>These are your CateCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ceci sont vos addresses CateCoin pour envoyer vos paiements. Il faut toujours verifier les montants et l'addresse de reception avant de valider la transaction.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ceci sont vos addresses Litecoin pour recevoir vos paiements. Il est recommandé d'utiliser une nouvelle adresse de recepetion pour chaque transaction</translation>
+        <source>These are your CateCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ceci sont vos addresses CateCoin pour recevoir vos paiements. Il est recommandé d'utiliser une nouvelle adresse de recepetion pour chaque transaction</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +172,8 @@
         <translation>Confirmer le chiffrement du porte-monnaie</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Attention : Si vous chiffrez votre portefeuille et que vous perdez votre mot de passe vous &lt;b&gt; PERDREZ TOUS VOS LITECOINS&lt;/b&gt; !</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CATECOINS&lt;/b&gt;!</source>
+        <translation>Attention : Si vous chiffrez votre portefeuille et que vous perdez votre mot de passe vous &lt;b&gt; PERDREZ TOUS VOS CATECOINS&lt;/b&gt; !</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,7 +184,7 @@
         <translation>Portefeuille chiffré</translation>
     </message>
     <message>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your catecoins from being stolen by malware infecting your computer.</source>
         <translation>%1 va à présent se fermer pour terminer la procédure de cryptage. N'oubliez pas que le chiffrement de votre porte-monnaie ne peut pas fournir une protection totale contre le vol par des logiciels malveillants qui infecteraient votre ordinateur.</translation>
     </message>
     <message>
@@ -346,8 +342,8 @@
         <translation>Réindexer les blocs sur le disque...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Envoyer des pièces à une adresse Litecoin</translation>
+        <source>Send coins to a CateCoin address</source>
+        <translation>Envoyer des pièces à une adresse CateCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -370,8 +366,8 @@
         <translation>&amp;Vérification du message</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -398,12 +394,12 @@
         <translation>Crypter les clé privées qui appartiennent votre portefeuille</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Signer vos messages avec vos adresses Litecoin pour prouver que vous les détenez</translation>
+        <source>Sign messages with your CateCoin addresses to prove you own them</source>
+        <translation>Signer vos messages avec vos adresses CateCoin pour prouver que vous les détenez</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Vérifier les messages pour s'assurer qu'ils soient signés avec les adresses Litecoin spécifiées</translation>
+        <source>Verify messages to ensure they were signed with specified CateCoin addresses</source>
+        <translation>Vérifier les messages pour s'assurer qu'ils soient signés avec les adresses CateCoin spécifiées</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -422,8 +418,8 @@
         <translation>Barre d'outils des onglets</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Demander des paiements (générer QR codes et litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and catecoin: URIs)</source>
+        <translation>Demander des paiements (générer QR codes et catecoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -434,16 +430,16 @@
         <translation>Afficher la liste des labels et adresses de réception utilisées</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Ouvrir un litecoin: URI ou demande de paiement</translation>
+        <source>Open a catecoin: URI or payment request</source>
+        <translation>Ouvrir un catecoin: URI ou demande de paiement</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Options de ligne de commande</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n connexion active avec le réseau Litecoin</numerusform><numerusform>%n connexions actives avec le réseau Litecoin</numerusform></translation>
+        <source>%n active connection(s) to CateCoin network</source>
+        <translation><numerusform>%n connexion active avec le réseau CateCoin</numerusform><numerusform>%n connexions actives avec le réseau CateCoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -482,8 +478,8 @@
         <translation>À jour</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Litecoin command-line options</source>
-        <translation>Afficher le %1 message d'aide pour récupérer une liste des options de ligne de commande Litecoin</translation>
+        <source>Show the %1 help message to get a list with possible CateCoin command-line options</source>
+        <translation>Afficher le %1 message d'aide pour récupérer une liste des options de ligne de commande CateCoin</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -552,8 +548,8 @@
         <translation>Le porte-monnaie est &lt;b&gt;chiffré&lt;/b&gt; et est actuellement &lt;b&gt;verrouillé&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a eu lieu. Litecoin ne peut plus continuer en toute sécurité et va s'éteindre</translation>
+        <source>A fatal error occurred. CateCoin can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a eu lieu. CateCoin ne peut plus continuer en toute sécurité et va s'éteindre</translation>
     </message>
 </context>
 <context>
@@ -730,6 +726,10 @@
         <translation>&amp;Adresse</translation>
     </message>
     <message>
+        <source>New receiving address</source>
+        <translation>Nouvelle adresse de réception</translation>
+    </message>
+    <message>
         <source>New sending address</source>
         <translation>Nouvelle adresse d'envoi</translation>
     </message>
@@ -742,8 +742,12 @@
         <translation>Éditer l'adresse d'envoi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>L'adresse entrée "%1" n'est pas une adresse Litecoin valide.</translation>
+        <source>The entered address "%1" is not a valid CateCoin address.</source>
+        <translation>L'adresse entrée "%1" n'est pas une adresse CateCoin valide.</translation>
+    </message>
+    <message>
+        <source>The entered address "%1" is already in the address book.</source>
+        <translation>L'adresse fournie « %1 » est déjà présente dans le carnet d'adresses.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -795,6 +799,34 @@
         <source>Command-line options</source>
         <translation>Options de ligne de commande</translation>
     </message>
+    <message>
+        <source>Usage:</source>
+        <translation>Utilisation :</translation>
+    </message>
+    <message>
+        <source>command-line options</source>
+        <translation>Options de ligne de commande</translation>
+    </message>
+    <message>
+        <source>UI Options:</source>
+        <translation>Options interface graphique:</translation>
+    </message>
+    <message>
+        <source>Set language, for example "de_DE" (default: system locale)</source>
+        <translation>Définir la langue, par exemple "de_DE" (défaut: locale système)</translation>
+    </message>
+    <message>
+        <source>Start minimized</source>
+        <translation>Démarrer sous forme minimisée</translation>
+    </message>
+    <message>
+        <source>Set SSL root certificates for payment request (default: -system-)</source>
+        <translation>Définir les certificats SSL racines pour les requêtes de paiement (défaut:-système-)</translation>
+    </message>
+    <message>
+        <source>Reset all settings changed in the GUI</source>
+        <translation>Réinitialiser tous les paramètres modifiés dans le GUI</translation>
+    </message>
 </context>
 <context>
     <name>Intro</name>
@@ -815,8 +847,8 @@
         <translation>Utiliser votre propre répertoire</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -912,8 +944,8 @@
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir le port du client Litecoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
+        <source>Automatically open the CateCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir le port du client CateCoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1112,8 +1144,8 @@
         <translation>Montant</translation>
     </message>
     <message>
-        <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Entrer une adresse Litecoin (e.g. %1)</translation>
+        <source>Enter a CateCoin address (e.g. %1)</source>
+        <translation>Entrer une adresse CateCoin (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1486,10 +1518,6 @@
         <source>Message</source>
         <translation>Message</translation>
     </message>
-    <message>
-        <source>Wallet</source>
-        <translation>Portefeuille</translation>
-    </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
@@ -1645,12 +1673,16 @@
         <translation>Êtes-vous sûr de vouloir envoyer ?</translation>
     </message>
     <message>
-        <source>or</source>
-        <translation>ou</translation>
+        <source>added as transaction fee</source>
+        <translation>Ajoute en tant que frais de transaction</translation>
     </message>
     <message>
-        <source>Transaction fee</source>
-        <translation>Frais de transaction</translation>
+        <source>Total Amount %1</source>
+        <translation>Montant Total %1</translation>
+    </message>
+    <message>
+        <source>or</source>
+        <translation>ou</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
@@ -1677,8 +1709,8 @@
         <translation>Payer seulement les frais obligatoire de %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Litecoin address</source>
-        <translation>Attention: Adresse Litecoin Invalide</translation>
+        <source>Warning: Invalid CateCoin address</source>
+        <translation>Attention: Adresse CateCoin Invalide</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1862,6 +1894,10 @@
         <translation>État</translation>
     </message>
     <message>
+        <source>, has not been successfully broadcast yet</source>
+        <translation>, n'a pas encore été diffusée avec succès</translation>
+    </message>
+    <message>
         <source>Date</source>
         <translation>Date</translation>
     </message>
@@ -1992,6 +2028,10 @@
         <translation>Ouvert jusqu'à %1</translation>
     </message>
     <message>
+        <source>Offline</source>
+        <translation>Hors ligne</translation>
+    </message>
+    <message>
         <source>Unconfirmed</source>
         <translation>Non Confirmé</translation>
     </message>
@@ -2002,6 +2042,10 @@
     <message>
         <source>Confirmed (%1 confirmations)</source>
         <translation>Confirmée (%1 confirmations)</translation>
+    </message>
+    <message>
+        <source>This block was not received by any other nodes and will probably not be accepted!</source>
+        <translation>Ce bloc n'a été reçu par aucun autre nœud et ne sera probablement pas accepté !</translation>
     </message>
     <message>
         <source>Generated but not accepted</source>
@@ -2230,12 +2274,48 @@
 <context>
     <name>bitcoin-core</name>
     <message>
+        <source>Options:</source>
+        <translation>Options :</translation>
+    </message>
+    <message>
+        <source>Specify data directory</source>
+        <translation>Spécifier le répertoire de données</translation>
+    </message>
+    <message>
+        <source>Specify your own public address</source>
+        <translation>Spécifier votre adresse publique </translation>
+    </message>
+    <message>
+        <source>Accept command line and JSON-RPC commands</source>
+        <translation>Accepter les commandes de JSON-RPC et de la ligne de commande</translation>
+    </message>
+    <message>
+        <source>Run in the background as a daemon and accept commands</source>
+        <translation>Fonctionner en arrière-plan en tant que démon et accepter les commandes</translation>
+    </message>
+    <message>
         <source>Unable to start HTTP server. See debug log for details.</source>
         <translation>Impossible de démarrer le serveur HTTP. Voir le journal de débogage pour plus de détails.</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>CateCoin Core</source>
+        <translation>CateCoin Core</translation>
+    </message>
+    <message>
+        <source>&lt;category&gt; can be:</source>
+        <translation>&lt;category&gt; peut être:</translation>
+    </message>
+    <message>
+        <source>Block creation options:</source>
+        <translation>Options de création de bloc:</translation>
+    </message>
+    <message>
+        <source>Connection options:</source>
+        <translation>Options de connexion:</translation>
+    </message>
+    <message>
+        <source>Debugging/Testing options:</source>
+        <translation>Options de débogage/test </translation>
     </message>
     <message>
         <source>Importing...</source>
@@ -2245,6 +2325,18 @@ Importation ...</translation>
     <message>
         <source>Verifying blocks...</source>
         <translation>Vérifications des blocs...</translation>
+    </message>
+    <message>
+        <source>Wallet options:</source>
+        <translation>Options du portefeuille:</translation>
+    </message>
+    <message>
+        <source>(default: %u)</source>
+        <translation>(défaut: %u)</translation>
+    </message>
+    <message>
+        <source>Connect through SOCKS5 proxy</source>
+        <translation>Connecté au travers du proxy SOCKS5</translation>
     </message>
     <message>
         <source>Information</source>
@@ -2257,6 +2349,18 @@ Importation ...</translation>
     <message>
         <source>Invalid -proxy address or hostname: '%s'</source>
         <translation>Adresse -proxy invalide: '%s'</translation>
+    </message>
+    <message>
+        <source>Node relay options:</source>
+        <translation>Options du relais de nœud: </translation>
+    </message>
+    <message>
+        <source>RPC server options:</source>
+        <translation>Options de serveur RPC:</translation>
+    </message>
+    <message>
+        <source>Send trace/debug info to console instead of debug.log file</source>
+        <translation>Envoyer les informations de débogage/trace à la console au lieu du fichier debug.log</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
@@ -2279,8 +2383,24 @@ Importation ...</translation>
         <translation>Transaction trop grande</translation>
     </message>
     <message>
+        <source>Username for JSON-RPC connections</source>
+        <translation>Nom d'utilisateur pour les connexions JSON-RPC</translation>
+    </message>
+    <message>
         <source>Warning</source>
         <translation>Attention</translation>
+    </message>
+    <message>
+        <source>Password for JSON-RPC connections</source>
+        <translation>Mot de passe pour les connexions JSON-RPC</translation>
+    </message>
+    <message>
+        <source>(default: %s)</source>
+        <translation>(défaut: %s)</translation>
+    </message>
+    <message>
+        <source>Specify pid file (default: %s)</source>
+        <translation>Spécifier le pid du fichier (défaut: %s)</translation>
     </message>
     <message>
         <source>Insufficient funds</source>

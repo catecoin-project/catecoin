@@ -30,10 +30,6 @@
         <translation>Ištrinti pasirinktą adresą iš sąrašo</translation>
     </message>
     <message>
-        <source>Enter address or label to search</source>
-        <translation>Įveskite adresą ar žymę į paiešką</translation>
-    </message>
-    <message>
         <source>Export the data in the current tab to a file</source>
         <translation>Eksportuoti informaciją iš dabartinės lentelės į failą</translation>
     </message>
@@ -44,10 +40,6 @@
     <message>
         <source>&amp;Delete</source>
         <translation>&amp;Trinti</translation>
-    </message>
-    <message>
-        <source>Choose the address to send coins to</source>
-        <translation>Pasirinkite adresą, kuriam siūsite monetas</translation>
     </message>
     </context>
 <context>
@@ -170,8 +162,8 @@
         <translation>Blokai iš naujo indeksuojami...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Siųsti monetas Litecoin adresui</translation>
+        <source>Send coins to a CateCoin address</source>
+        <translation>Siųsti monetas CateCoin adresui</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -194,8 +186,8 @@
         <translation>&amp;Tikrinti žinutę...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -375,7 +367,15 @@
         <source>Command-line options</source>
         <translation>Komandinės eilutės parametrai</translation>
     </message>
-</context>
+    <message>
+        <source>Usage:</source>
+        <translation>Naudojimas:</translation>
+    </message>
+    <message>
+        <source>command-line options</source>
+        <translation>komandinės eilutės parametrai</translation>
+    </message>
+    </context>
 <context>
     <name>Intro</name>
     <message>
@@ -383,8 +383,8 @@
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -436,8 +436,8 @@
         <translation>Piniginė</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Litecoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the CateCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti CateCoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -746,10 +746,6 @@
         <source>Address</source>
         <translation>Adresas</translation>
     </message>
-    <message>
-        <source>Wallet</source>
-        <translation>Piniginė</translation>
-    </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
@@ -816,10 +812,6 @@
         <source>S&amp;end</source>
         <translation>&amp;Siųsti</translation>
     </message>
-    <message>
-        <source>Transaction fee</source>
-        <translation>Sandorio mokestis</translation>
-    </message>
     </context>
 <context>
     <name>SendCoinsEntry</name>
@@ -885,7 +877,7 @@
         <translation>Įveskite pranešimą, kurį norite pasirašyti čia</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Litecoin address</source>
+        <source>Sign the message to prove you own this CateCoin address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -901,8 +893,8 @@
         <translation>&amp;Patikrinti žinutę</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Litecoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified CateCoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas CateCoin adresas</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -958,8 +950,28 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin branduolys</translation>
+        <source>Options:</source>
+        <translation>Parinktys:</translation>
+    </message>
+    <message>
+        <source>Specify data directory</source>
+        <translation>Nustatyti duomenų aplanką</translation>
+    </message>
+    <message>
+        <source>Specify your own public address</source>
+        <translation>Nurodykite savo nuosavą viešą adresą</translation>
+    </message>
+    <message>
+        <source>Accept command line and JSON-RPC commands</source>
+        <translation>Priimti komandinę eilutę ir JSON-RPC komandas</translation>
+    </message>
+    <message>
+        <source>Run in the background as a daemon and accept commands</source>
+        <translation>Dirbti fone kaip šešėlyje ir priimti komandas</translation>
+    </message>
+    <message>
+        <source>CateCoin Core</source>
+        <translation>CateCoin branduolys</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -974,8 +986,24 @@
         <translation>Informacija</translation>
     </message>
     <message>
+        <source>Send trace/debug info to console instead of debug.log file</source>
+        <translation>Siųsti atsekimo/derinimo info į konsolę vietoj debug.log failo</translation>
+    </message>
+    <message>
+        <source>Username for JSON-RPC connections</source>
+        <translation>Vartotojo vardas JSON-RPC jungimuisi</translation>
+    </message>
+    <message>
         <source>Warning</source>
         <translation>Įspėjimas</translation>
+    </message>
+    <message>
+        <source>Password for JSON-RPC connections</source>
+        <translation>Slaptažodis JSON-RPC sujungimams</translation>
+    </message>
+    <message>
+        <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
+        <translation>Leisti DNS paiešką sujungimui ir mazgo pridėjimui</translation>
     </message>
     <message>
         <source>Insufficient funds</source>

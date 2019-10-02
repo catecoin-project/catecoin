@@ -30,10 +30,6 @@
         <translation>حذف آدرس منتخب از لیست</translation>
     </message>
     <message>
-        <source>Enter address or label to search</source>
-        <translation>برای جست‌‌وجو نشانی یا برچسب را وارد کنید</translation>
-    </message>
-    <message>
         <source>Export the data in the current tab to a file</source>
         <translation>صدور داده‌های برگهٔ فعلی به یک پرونده</translation>
     </message>
@@ -66,11 +62,11 @@
         <translation>آدرس‌های دریافتی</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your CateCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>این‌ها آدرس‌های بیتکوین برای پرداخت‌ها هستند. همیشه قبل از فرستادن سکه‌ها مقدار و آدرس دریافت‌کننده را بررسی نمایید.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your CateCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>این‌ها آدرس‌های بیتکوین شما برای دریافت مبالغ می‌باشد. توصیه می‌شود برای هر تراکنش از یک آدرس جدید استفاده کنید.</translation>
     </message>
     <message>
@@ -318,8 +314,8 @@
         <translation>بازنشانی بلوک‌ها روی دیسک...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>ارسال وجه به نشانی Litecoin</translation>
+        <source>Send coins to a CateCoin address</source>
+        <translation>ارسال وجه به نشانی CateCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -342,8 +338,8 @@
         <translation>با&amp;زبینی پیام...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -370,12 +366,12 @@
         <translation>رمزنگاری کلیدهای خصوصی متعلق به کیف پول شما</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی Litecoin خود امضا کنید</translation>
+        <source>Sign messages with your CateCoin addresses to prove you own them</source>
+        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی CateCoin خود امضا کنید</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی Litecoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify messages to ensure they were signed with specified CateCoin addresses</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی CateCoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -394,8 +390,8 @@
         <translation>نوارابزار برگه‌ها</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>درخواست پرداخت ( تولید کد کیوار و ادرس litecoin)</translation>
+        <source>Request payments (generates QR codes and catecoin: URIs)</source>
+        <translation>درخواست پرداخت ( تولید کد کیوار و ادرس catecoin)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -406,16 +402,16 @@
         <translation>نمایش لیست آدرس های دریافت و لیبل ها</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>بازکردن یک litecoin: آدرس یا درخواست پرداخت</translation>
+        <source>Open a catecoin: URI or payment request</source>
+        <translation>بازکردن یک catecoin: آدرس یا درخواست پرداخت</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>گزینه‌های خط‌فرمان</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n ارتباط فعال با شبکهٔ Litecoin</numerusform><numerusform>%n ارتباط فعال با شبکهٔ Litecoin</numerusform></translation>
+        <source>%n active connection(s) to CateCoin network</source>
+        <translation><numerusform>%n ارتباط فعال با شبکهٔ CateCoin</numerusform><numerusform>%n ارتباط فعال با شبکهٔ CateCoin</numerusform></translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
@@ -646,6 +642,10 @@
         <translation>&amp;نشانی</translation>
     </message>
     <message>
+        <source>New receiving address</source>
+        <translation>نشانی گیرنده جدید</translation>
+    </message>
+    <message>
         <source>New sending address</source>
         <translation>نشانی فرستنده جدید</translation>
     </message>
@@ -658,18 +658,18 @@
         <translation>ویرایش آدرس قرستنده</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>نشانی وارد شده "%1" یک نشانی معتبر Litecoin نیست.</translation>
+        <source>The entered address "%1" is not a valid CateCoin address.</source>
+        <translation>نشانی وارد شده "%1" یک نشانی معتبر CateCoin نیست.</translation>
+    </message>
+    <message>
+        <source>The entered address "%1" is already in the address book.</source>
+        <translation>نشانی وارد شده «%1» در حال حاضر در دفترچه وجود دارد.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
         <translation>نمی‌توان کیف پول را رمزگشایی کرد.</translation>
     </message>
-    <message>
-        <source>New key generation failed.</source>
-        <translation>تولید کلید جدید ناموفق بود.</translation>
-    </message>
-</context>
+    </context>
 <context>
     <name>FreespaceChecker</name>
     <message>
@@ -711,7 +711,35 @@
         <source>Command-line options</source>
         <translation>گزینه‌های خط‌فرمان</translation>
     </message>
-</context>
+    <message>
+        <source>Usage:</source>
+        <translation>استفاده:</translation>
+    </message>
+    <message>
+        <source>command-line options</source>
+        <translation>گزینه‌های خط فرمان</translation>
+    </message>
+    <message>
+        <source>UI Options:</source>
+        <translation>گزینه‌های رابط کاربری:</translation>
+    </message>
+    <message>
+        <source>Set language, for example "de_DE" (default: system locale)</source>
+        <translation>زبان را تنظیم کنید؛ برای مثال «de_DE» (پیشفرض: زبان سیستم)</translation>
+    </message>
+    <message>
+        <source>Start minimized</source>
+        <translation>شروع برنامه به صورت کوچک‌شده</translation>
+    </message>
+    <message>
+        <source>Set SSL root certificates for payment request (default: -system-)</source>
+        <translation>تنظیم گواهی ریشه SSl برای درخواست پرداخت (پیشفرض: -system-)</translation>
+    </message>
+    <message>
+        <source>Show splash screen on startup (default: %u)</source>
+        <translation>نمایش پنجرهٔ خوشامدگویی در ابتدای اجرای برنامه (پیش‌فرض: %u)</translation>
+    </message>
+    </context>
 <context>
     <name>Intro</name>
     <message>
@@ -731,8 +759,8 @@
         <translation>استفاده از یک مسیر سفارشی:</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -836,8 +864,8 @@
         <translation>استخراج</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>باز کردن خودکار درگاه شبکهٔ Litecoin روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
+        <source>Automatically open the CateCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>باز کردن خودکار درگاه شبکهٔ CateCoin روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -939,8 +967,8 @@
         <translation>فرم</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ Litecoin همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CateCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ CateCoin همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1012,8 +1040,8 @@
         <translation>مبلغ</translation>
     </message>
     <message>
-        <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>یک آدرس Litecoin وارد کنید (مثلاً %1)</translation>
+        <source>Enter a CateCoin address (e.g. %1)</source>
+        <translation>یک آدرس CateCoin وارد کنید (مثلاً %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1123,10 +1151,6 @@
     <message>
         <source>Memory Pool</source>
         <translation>استخر حافظه</translation>
-    </message>
-    <message>
-        <source>Current number of transactions</source>
-        <translation>تعداد تراکنش های فعلی</translation>
     </message>
     <message>
         <source>Memory usage</source>
@@ -1280,10 +1304,6 @@
         <translation>کپی برچسب</translation>
     </message>
     <message>
-        <source>Copy message</source>
-        <translation>کپی پیام</translation>
-    </message>
-    <message>
         <source>Copy amount</source>
         <translation>کپی مقدار</translation>
     </message>
@@ -1310,36 +1330,16 @@
         <source>Label</source>
         <translation>برچسب</translation>
     </message>
-    <message>
-        <source>Message</source>
-        <translation>پیام</translation>
-    </message>
-    <message>
-        <source>Wallet</source>
-        <translation>کیف پول</translation>
-    </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
-    <message>
-        <source>Date</source>
-        <translation>تاریخ</translation>
-    </message>
     <message>
         <source>Label</source>
         <translation>برچسب</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation>پیام</translation>
-    </message>
-    <message>
         <source>(no label)</source>
         <translation>(بدون برچسب)</translation>
-    </message>
-    <message>
-        <source>(no message)</source>
-        <translation>(بدون پیام)</translation>
     </message>
     </context>
 <context>
@@ -1457,14 +1457,6 @@
         <translation>کپی کردن تغییر</translation>
     </message>
     <message>
-        <source>or</source>
-        <translation>یا</translation>
-    </message>
-    <message>
-        <source>Transaction fee</source>
-        <translation>هزینهٔ تراکنش</translation>
-    </message>
-    <message>
         <source>(no label)</source>
         <translation>(بدون برچسب)</translation>
     </message>
@@ -1492,8 +1484,8 @@
         <translation>این یک پرداخت عادی است</translation>
     </message>
     <message>
-        <source>The Litecoin address to send the payment to</source>
-        <translation>نشانی Litecoin برای ارسال پرداخت به آن</translation>
+        <source>The CateCoin address to send the payment to</source>
+        <translation>نشانی CateCoin برای ارسال پرداخت به آن</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1545,8 +1537,8 @@
         <translation>ا&amp;مضای پیام</translation>
     </message>
     <message>
-        <source>The Litecoin address to sign the message with</source>
-        <translation>نشانی Litecoin برای امضاء پیغام با آن</translation>
+        <source>The CateCoin address to sign the message with</source>
+        <translation>نشانی CateCoin برای امضاء پیغام با آن</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1577,7 +1569,7 @@
         <translation>امضای فعلی را به حافظهٔ سیستم کپی کن</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Litecoin address</source>
+        <source>Sign the message to prove you own this CateCoin address</source>
         <translation>برای اثبات تعلق این نشانی به شما، پیام را امضا کنید</translation>
     </message>
     <message>
@@ -1597,12 +1589,12 @@
         <translation>&amp;شناسایی پیام</translation>
     </message>
     <message>
-        <source>The Litecoin address the message was signed with</source>
-        <translation>نشانی Litecoin که پیغام با آن امضاء شده</translation>
+        <source>The CateCoin address the message was signed with</source>
+        <translation>نشانی CateCoin که پیغام با آن امضاء شده</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی Litecoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify the message to ensure it was signed with the specified CateCoin address</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی CateCoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1629,83 +1621,19 @@
 </context>
 <context>
     <name>TransactionDesc</name>
-    <message>
-        <source>Status</source>
-        <translation>وضعیت</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation>تاریخ</translation>
-    </message>
-    <message>
-        <source>Source</source>
-        <translation>منبع</translation>
-    </message>
-    <message>
-        <source>Generated</source>
-        <translation>تولید شده</translation>
-    </message>
-    <message>
-        <source>From</source>
-        <translation>از</translation>
-    </message>
-    <message>
-        <source>To</source>
-        <translation>به</translation>
-    </message>
-    <message>
-        <source>Credit</source>
-        <translation>اعتبار</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation>پیام</translation>
-    </message>
-    <message>
-        <source>Transaction</source>
-        <translation>تراکنش</translation>
-    </message>
-    <message>
-        <source>Inputs</source>
-        <translation>ورودی ها</translation>
-    </message>
     </context>
 <context>
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>این پنل شامل توصیف کاملی از جزئیات تراکنش است</translation>
+        <translation>این پانل شامل توصیف کاملی از جزئیات تراکنش است</translation>
     </message>
     </context>
 <context>
     <name>TransactionTableModel</name>
     <message>
-        <source>Date</source>
-        <translation>تاریخ</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation>نوع</translation>
-    </message>
-    <message>
         <source>Label</source>
         <translation>برچسب</translation>
-    </message>
-    <message>
-        <source>Received with</source>
-        <translation>دریافت شد با</translation>
-    </message>
-    <message>
-        <source>Received from</source>
-        <translation>دریافت شد از</translation>
-    </message>
-    <message>
-        <source>Sent to</source>
-        <translation>فرستاده شد به</translation>
-    </message>
-    <message>
-        <source>(n/a)</source>
-        <translation>(نامعلوم)</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1714,38 +1642,6 @@
     </context>
 <context>
     <name>TransactionView</name>
-    <message>
-        <source>All</source>
-        <translation>همه</translation>
-    </message>
-    <message>
-        <source>Today</source>
-        <translation>امروز</translation>
-    </message>
-    <message>
-        <source>This week</source>
-        <translation>این هفته</translation>
-    </message>
-    <message>
-        <source>This month</source>
-        <translation>این ماه</translation>
-    </message>
-    <message>
-        <source>Last month</source>
-        <translation>ماه قبل</translation>
-    </message>
-    <message>
-        <source>This year</source>
-        <translation>امسال</translation>
-    </message>
-    <message>
-        <source>Received with</source>
-        <translation>دریافت شد با</translation>
-    </message>
-    <message>
-        <source>Sent to</source>
-        <translation>فرستاده شد به</translation>
-    </message>
     <message>
         <source>Copy address</source>
         <translation>کپی ادرس</translation>
@@ -1763,28 +1659,8 @@
         <translation>کپی شناسهٔ تراکنش</translation>
     </message>
     <message>
-        <source>Edit label</source>
-        <translation>ویرایش برچسب</translation>
-    </message>
-    <message>
-        <source>Show transaction details</source>
-        <translation>نمایش جزئیات تراکنش</translation>
-    </message>
-    <message>
-        <source>Export Transaction History</source>
-        <translation>استخراج تاریخچه تراکنش ها</translation>
-    </message>
-    <message>
         <source>Comma separated file (*.csv)</source>
         <translation>فایل جدا شده با ویرگول(*.csv)</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation>تاریخ</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation>نوع</translation>
     </message>
     <message>
         <source>Label</source>
@@ -1798,11 +1674,7 @@
         <source>Exporting Failed</source>
         <translation>صدور موفق نبود</translation>
     </message>
-    <message>
-        <source>to</source>
-        <translation>به</translation>
-    </message>
-</context>
+    </context>
 <context>
     <name>UnitDisplayStatusBarControl</name>
     </context>
@@ -1822,8 +1694,52 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation> هسته Litecoin </translation>
+        <source>Options:</source>
+        <translation>گزینه‌ها:</translation>
+    </message>
+    <message>
+        <source>Specify data directory</source>
+        <translation>مشخص کردن دایرکتوری داده‌ها</translation>
+    </message>
+    <message>
+        <source>Connect to a node to retrieve peer addresses, and disconnect</source>
+        <translation>اتصال به یک گره برای دریافت آدرس‌های همتا و قطع اتصال پس از اتمام عملیات</translation>
+    </message>
+    <message>
+        <source>Specify your own public address</source>
+        <translation>آدرس عمومی خود را مشخص کنید</translation>
+    </message>
+    <message>
+        <source>Accept command line and JSON-RPC commands</source>
+        <translation>پذیرش دستورات خط فرمان و دستورات JSON-RPC</translation>
+    </message>
+    <message>
+        <source>Run in the background as a daemon and accept commands</source>
+        <translation>اجرا در پشت زمینه به‌صورت یک سرویس و پذیرش دستورات</translation>
+    </message>
+    <message>
+        <source>CateCoin Core</source>
+        <translation> هسته CateCoin </translation>
+    </message>
+    <message>
+        <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
+        <translation>مقید به نشانی داده شده باشید و همیشه از آن پیروی کنید. از نشانه گذاری استاندار IPv6 به صورت Host]:Port] استفاده کنید.</translation>
+    </message>
+    <message>
+        <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
+        <translation>هنگامی که یک تراکنش در کیف پولی رخ می دهد، دستور را اجرا کن(%s در دستورات بوسیله ی TxID جایگزین می شود)</translation>
+    </message>
+    <message>
+        <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
+        <translation>پذیرش اتصالات از بیرون (پیش فرض:1 بدون پراکسی یا اتصال)</translation>
+    </message>
+    <message>
+        <source>Block creation options:</source>
+        <translation>بستن گزینه ایجاد</translation>
+    </message>
+    <message>
+        <source>Connection options:</source>
+        <translation>گزینه‌های اتصال:</translation>
     </message>
     <message>
         <source>Copyright (C) %i-%i</source>
@@ -1870,16 +1786,36 @@
         <translation>بارگذاری لیست‌سیاه...</translation>
     </message>
     <message>
+        <source>Print this help message and exit</source>
+        <translation>چاپ ایت پیام کمک و خروج</translation>
+    </message>
+    <message>
+        <source>Print version and exit</source>
+        <translation>چاپ نسخه و خروج</translation>
+    </message>
+    <message>
         <source>Verifying blocks...</source>
         <translation>در حال بازبینی بلوک‌ها...</translation>
+    </message>
+    <message>
+        <source>Wallet options:</source>
+        <translation>گزینه‌های کیف پول:</translation>
+    </message>
+    <message>
+        <source>(default: %u)</source>
+        <translation>(پیش‌فرض %u)</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>اطلاعات</translation>
     </message>
     <message>
-        <source>This is experimental software.</source>
-        <translation>این یک نرم افزار آزمایشی است.</translation>
+        <source>Send trace/debug info to console instead of debug.log file</source>
+        <translation>اطلاعات ردگیری/اشکال‌زدایی را به جای فایل لاگ اشکال‌زدایی به کنسول بفرستید</translation>
+    </message>
+    <message>
+        <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
+        <translation>فایل debug.log  را در startup مشتری کوچک کن (پیش فرض:1 اگر اشکال زدایی روی نداد)</translation>
     </message>
     <message>
         <source>Transaction amount too small</source>
@@ -1890,12 +1826,32 @@
         <translation>تراکنش بسیار بزرگ است</translation>
     </message>
     <message>
+        <source>Username for JSON-RPC connections</source>
+        <translation>JSON-RPC شناسه برای ارتباطات</translation>
+    </message>
+    <message>
         <source>Warning</source>
         <translation>هشدار</translation>
     </message>
     <message>
         <source>Warning: unknown new rules activated (versionbit %i)</source>
         <translation>هشدار: قوانین جدید ناشناخته‌ای فعال شده‌اند (نسخه‌بیت %i)</translation>
+    </message>
+    <message>
+        <source>Password for JSON-RPC connections</source>
+        <translation>JSON-RPC عبارت عبور برای ارتباطات</translation>
+    </message>
+    <message>
+        <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
+        <translation>زمانی که بهترین بلاک تغییر کرد، دستور را اجرا کن (%s در cmd با block hash جایگزین شده است)</translation>
+    </message>
+    <message>
+        <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
+        <translation>به DNS اجازه بده تا برای addnode ، seednode و اتصال جستجو کند</translation>
+    </message>
+    <message>
+        <source>(default: %s)</source>
+        <translation>(پیش‌فرض %s)</translation>
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>

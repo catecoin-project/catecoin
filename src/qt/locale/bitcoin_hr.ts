@@ -30,10 +30,6 @@
         <translation>Brisanje trenutno odabrane adrese s popisa.</translation>
     </message>
     <message>
-        <source>Enter address or label to search</source>
-        <translation>Unesite adresu ili oznaku za pretraživanje</translation>
-    </message>
-    <message>
         <source>Export the data in the current tab to a file</source>
         <translation>Izvoz podataka iz trenutnog lista u datoteku</translation>
     </message>
@@ -66,12 +62,12 @@
         <translation>Adresa primatelja</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su vaše Litecoin adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your CateCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su vaše CateCoin adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ovo su vaše Litecoin adrese za primanje novca. Preporučamo da koristite novu adresu za primanje za svaku transakciju.</translation>
+        <source>These are your CateCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ovo su vaše CateCoin adrese za primanje novca. Preporučamo da koristite novu adresu za primanje za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +168,8 @@
         <translation>Potvrdi šifriranje novčanika</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE LITECOINE!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CATECOINS&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE CATECOINE!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -306,8 +302,8 @@
         <translation>Re-indeksiranje blokova na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Slanje novca na litecoin adresu</translation>
+        <source>Send coins to a CateCoin address</source>
+        <translation>Slanje novca na catecoin adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -330,8 +326,8 @@
         <translation>&amp;Potvrdite poruku...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -358,12 +354,12 @@
         <translation>Šifriranje privatnih ključeva koji u novčaniku</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Poruku potpišemo s litecoin adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
+        <source>Sign messages with your CateCoin addresses to prove you own them</source>
+        <translation>Poruku potpišemo s catecoin adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Provjeravanje poruke, kao dokaz, da je potpisana navedenom litecoin adresom</translation>
+        <source>Verify messages to ensure they were signed with specified CateCoin addresses</source>
+        <translation>Provjeravanje poruke, kao dokaz, da je potpisana navedenom catecoin adresom</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -382,8 +378,8 @@
         <translation>Traka kartica</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Zatraži uplatu (stvara QR kod i litecoin: URI adresu)</translation>
+        <source>Request payments (generates QR codes and catecoin: URIs)</source>
+        <translation>Zatraži uplatu (stvara QR kod i catecoin: URI adresu)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -394,16 +390,16 @@
         <translation>Prikaži popis korištenih adresa i oznaka za primanje novca</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Otvori litecoin: URI adresu ili zahtjev za uplatu</translation>
+        <source>Open a catecoin: URI or payment request</source>
+        <translation>Otvori catecoin: URI adresu ili zahtjev za uplatu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Opcije &amp;naredbene linije</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n aktivna veza na Litecoin mrežu</numerusform><numerusform>%n aktivnih veza na Litecoin mrežu</numerusform><numerusform>%n aktivnih veza na Litecoin mrežu</numerusform></translation>
+        <source>%n active connection(s) to CateCoin network</source>
+        <translation><numerusform>%n aktivna veza na CateCoin mrežu</numerusform><numerusform>%n aktivnih veza na CateCoin mrežu</numerusform><numerusform>%n aktivnih veza na CateCoin mrežu</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -595,15 +591,19 @@
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>Oznaka litecoin adrese</translation>
+        <translation>Oznaka catecoin adrese</translation>
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>Litecoin adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
+        <translation>CateCoin adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
     </message>
     <message>
         <source>&amp;Address</source>
         <translation>&amp;Adresa</translation>
+    </message>
+    <message>
+        <source>New receiving address</source>
+        <translation>Nova adresa za primanje</translation>
     </message>
     <message>
         <source>New sending address</source>
@@ -618,8 +618,12 @@
         <translation>Uredi adresu za slanje</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>Upisana adresa "%1" nije valjana litecoin adresa.</translation>
+        <source>The entered address "%1" is not a valid CateCoin address.</source>
+        <translation>Upisana adresa "%1" nije valjana catecoin adresa.</translation>
+    </message>
+    <message>
+        <source>The entered address "%1" is already in the address book.</source>
+        <translation>Upisana adresa "%1" je već u adresaru.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -659,7 +663,19 @@
         <source>Command-line options</source>
         <translation>Opcije programa u naredbenoj liniji</translation>
     </message>
-</context>
+    <message>
+        <source>Usage:</source>
+        <translation>Upotreba:</translation>
+    </message>
+    <message>
+        <source>command-line options</source>
+        <translation>opcije programa u naredbenoj liniji</translation>
+    </message>
+    <message>
+        <source>Start minimized</source>
+        <translation>Pokreni minimiziran</translation>
+    </message>
+    </context>
 <context>
     <name>Intro</name>
     <message>
@@ -667,8 +683,8 @@
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -760,8 +776,8 @@
         <translation>&amp;Trošenje nepotvrđenih vraćenih iznosa</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port Litecoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the CateCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port CateCoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -809,7 +825,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izaberite željeni najmanji dio litecoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
+        <translation>Izaberite željeni najmanji dio catecoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -839,8 +855,8 @@
         <translation>Oblik</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Litecoin mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CateCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s CateCoin mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
     </message>
     <message>
         <source>Total:</source>
@@ -1059,10 +1075,6 @@
         <translation>Poruka</translation>
     </message>
     <message>
-        <source>Wallet</source>
-        <translation>Novčanik</translation>
-    </message>
-    <message>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
         <translation>URI je predug, probajte skratiti tekst za naslov / poruku.</translation>
     </message>
@@ -1167,10 +1179,6 @@
     <message>
         <source>or</source>
         <translation>ili</translation>
-    </message>
-    <message>
-        <source>Transaction fee</source>
-        <translation>Naknada za transakciju</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
@@ -1306,6 +1314,10 @@
         <translation>Otvoren do %1</translation>
     </message>
     <message>
+        <source>%1/offline</source>
+        <translation>%1 nije dostupan</translation>
+    </message>
+    <message>
         <source>%1/unconfirmed</source>
         <translation>%1/nepotvrđeno</translation>
     </message>
@@ -1316,6 +1328,10 @@
     <message>
         <source>Status</source>
         <translation>Status</translation>
+    </message>
+    <message>
+        <source>, has not been successfully broadcast yet</source>
+        <translation>, još nije bio uspješno emitiran</translation>
     </message>
     <message>
         <source>Date</source>
@@ -1422,6 +1438,10 @@
     <message>
         <source>Confirmed (%1 confirmations)</source>
         <translation>Potvrđen (%1 potvrda)</translation>
+    </message>
+    <message>
+        <source>This block was not received by any other nodes and will probably not be accepted!</source>
+        <translation>Ovaj blok nije bio primljen od strane bilo kojeg drugog čvora i vjerojatno neće biti prihvaćen!</translation>
     </message>
     <message>
         <source>Generated but not accepted</source>
@@ -1630,8 +1650,32 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>Options:</source>
+        <translation>Postavke:</translation>
+    </message>
+    <message>
+        <source>Specify data directory</source>
+        <translation>Odaberi direktorij za datoteke</translation>
+    </message>
+    <message>
+        <source>Specify your own public address</source>
+        <translation>Odaberi vlastitu javnu adresu</translation>
+    </message>
+    <message>
+        <source>Accept command line and JSON-RPC commands</source>
+        <translation>Prihvati komande iz tekst moda i JSON-RPC</translation>
+    </message>
+    <message>
+        <source>Run in the background as a daemon and accept commands</source>
+        <translation>Izvršavaj u pozadini kao uslužnik i prihvaćaj komande</translation>
+    </message>
+    <message>
+        <source>CateCoin Core</source>
+        <translation>CateCoin Core</translation>
+    </message>
+    <message>
+        <source>Block creation options:</source>
+        <translation>Opcije za kreiranje bloka:</translation>
     </message>
     <message>
         <source>Error: Disk space is low!</source>
@@ -1642,8 +1686,28 @@
         <translation>Informacija</translation>
     </message>
     <message>
+        <source>Send trace/debug info to console instead of debug.log file</source>
+        <translation>Šalji trace/debug informacije na konzolu umjesto u debug.log datoteku</translation>
+    </message>
+    <message>
+        <source>Username for JSON-RPC connections</source>
+        <translation>Korisničko ime za JSON-RPC veze</translation>
+    </message>
+    <message>
         <source>Warning</source>
         <translation>Upozorenje</translation>
+    </message>
+    <message>
+        <source>Password for JSON-RPC connections</source>
+        <translation>Lozinka za JSON-RPC veze</translation>
+    </message>
+    <message>
+        <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
+        <translation>Izvršite naredbu kada se najbolji blok promjeni (%s u cmd je zamjenjen sa block hash)</translation>
+    </message>
+    <message>
+        <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
+        <translation>Dozvoli DNS upite za -addnode, -seednode i -connect</translation>
     </message>
     <message>
         <source>Insufficient funds</source>

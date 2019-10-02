@@ -62,12 +62,12 @@
         <translation>Ontvanger adresse</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Hierdie is die adresse vanwaar u Litecoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
+        <source>These are your CateCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Hierdie is die adresse vanwaar u CateCoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Hierdie is die adresse waar u Litecoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
+        <source>These are your CateCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Hierdie is die adresse waar u CateCoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Bevestig dat die beursie gekodifiseer is</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Waarskuwing: Indien u die beursie kodifiseer en u vergeet u wagwoord &lt;b&gt;VERLOOR U AL U LITECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CATECOINS&lt;/b&gt;!</source>
+        <translation>Waarskuwing: Indien u die beursie kodifiseer en u vergeet u wagwoord &lt;b&gt;VERLOOR U AL U CATECOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -334,8 +334,8 @@
         <translation>Besig met herindeksering van blokke op hardeskyf...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Stuur munte na 'n Litecoin adres</translation>
+        <source>Send coins to a CateCoin address</source>
+        <translation>Stuur munte na 'n CateCoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -358,8 +358,8 @@
         <translation>&amp;Verifieer boodskap...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -386,12 +386,12 @@
         <translation>Kodifiseer die private sleutes wat aan jou beursie gekoppel is.</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Onderteken boodskappe met u Litecoin adresse om u eienaarskap te bewys</translation>
+        <source>Sign messages with your CateCoin addresses to prove you own them</source>
+        <translation>Onderteken boodskappe met u CateCoin adresse om u eienaarskap te bewys</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde Litecoin adresse</translation>
+        <source>Verify messages to ensure they were signed with specified CateCoin addresses</source>
+        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde CateCoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -410,8 +410,8 @@
         <translation>Orebalk</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Versoek betalings (genereer QR-kodes en litecoin: URI's)</translation>
+        <source>Request payments (generates QR codes and catecoin: URIs)</source>
+        <translation>Versoek betalings (genereer QR-kodes en catecoin: URI's)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,8 +422,8 @@
         <translation>Vertoon die lys van gebruikte ontvangers-adresse en etikette</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Skep 'n litecoin: URI of betalingsversoek</translation>
+        <source>Open a catecoin: URI or payment request</source>
+        <translation>Skep 'n catecoin: URI of betalingsversoek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -516,8 +516,8 @@
         <translation>Inkomende transaksie</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>'N fatale fout het voorgekom. Litecoin kan nie meer veilig voortgaan nie en sal nou toemaak.</translation>
+        <source>A fatal error occurred. CateCoin can no longer continue safely and will quit.</source>
+        <translation>'N fatale fout het voorgekom. CateCoin kan nie meer veilig voortgaan nie en sal nou toemaak.</translation>
     </message>
 </context>
 <context>
@@ -694,6 +694,10 @@
         <translation>&amp;Adres</translation>
     </message>
     <message>
+        <source>New receiving address</source>
+        <translation>Nuwe ontvang adres</translation>
+    </message>
+    <message>
         <source>New sending address</source>
         <translation>Nuwe stuur adres</translation>
     </message>
@@ -706,8 +710,12 @@
         <translation>Wysig stuur adres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>Die ingevoerde adres "%1" is nie 'n geldige Litecoin adres nie.</translation>
+        <source>The entered address "%1" is not a valid CateCoin address.</source>
+        <translation>Die ingevoerde adres "%1" is nie 'n geldige CateCoin adres nie.</translation>
+    </message>
+    <message>
+        <source>The entered address "%1" is already in the address book.</source>
+        <translation>Die ingevoerde adres "%1" is reeds in die adres boek.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -759,6 +767,42 @@
         <source>Command-line options</source>
         <translation>Opdrag lyn opsies</translation>
     </message>
+    <message>
+        <source>Usage:</source>
+        <translation>Gebruik:</translation>
+    </message>
+    <message>
+        <source>command-line options</source>
+        <translation>opdrag lyn opsies</translation>
+    </message>
+    <message>
+        <source>UI Options:</source>
+        <translation>Gebruikerkoppelvlakopsies:</translation>
+    </message>
+    <message>
+        <source>Choose data directory on startup (default: %u)</source>
+        <translation>Kies data gids by aanvang (standaard: %u)</translation>
+    </message>
+    <message>
+        <source>Set language, for example "de_DE" (default: system locale)</source>
+        <translation>Stel taal, byvoorbeeld "de_DE" (standaard: stelsel lokaal)</translation>
+    </message>
+    <message>
+        <source>Start minimized</source>
+        <translation>Begin geminimeer</translation>
+    </message>
+    <message>
+        <source>Set SSL root certificates for payment request (default: -system-)</source>
+        <translation>Stel SSL-wortelsertifikate vir betaling versoek (standaard: -stelsel-)</translation>
+    </message>
+    <message>
+        <source>Show splash screen on startup (default: %u)</source>
+        <translation>Wys spatskerm tydens opstart (standaard: %u)</translation>
+    </message>
+    <message>
+        <source>Reset all settings changed in the GUI</source>
+        <translation>Alle instellings wat in die grafiese gebruikerkoppelvlak gewysig is, terugstel</translation>
+    </message>
 </context>
 <context>
     <name>Intro</name>
@@ -779,8 +823,8 @@
         <translation>Gebruik 'n persoonlike data gids:</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1144,8 +1188,8 @@
         <translation>Bedrag</translation>
     </message>
     <message>
-        <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Voer in 'n Litecoin adres (bv. %1)</translation>
+        <source>Enter a CateCoin address (e.g. %1)</source>
+        <translation>Voer in 'n CateCoin adres (bv. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1430,10 +1474,6 @@
         <source>Message</source>
         <translation>Boodskap</translation>
     </message>
-    <message>
-        <source>Wallet</source>
-        <translation>Beursie</translation>
-    </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
@@ -1591,10 +1631,6 @@
     <message>
         <source>%1 to %2</source>
         <translation>%1 tot %2</translation>
-    </message>
-    <message>
-        <source>Transaction fee</source>
-        <translation>Transaksie fooi</translation>
     </message>
     <message>
         <source>Payment request expired.</source>
@@ -1878,8 +1914,16 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Kern</translation>
+        <source>Options:</source>
+        <translation>Opsies:</translation>
+    </message>
+    <message>
+        <source>CateCoin Core</source>
+        <translation>CateCoin Kern</translation>
+    </message>
+    <message>
+        <source>Connection options:</source>
+        <translation>Konneksie opsies:</translation>
     </message>
     <message>
         <source>Error loading %s</source>
@@ -1890,8 +1934,24 @@
         <translation>Besig met invoer...</translation>
     </message>
     <message>
+        <source>Wallet options:</source>
+        <translation>Beursie opsies:</translation>
+    </message>
+    <message>
+        <source>(default: %u)</source>
+        <translation>(standaard: %u)</translation>
+    </message>
+    <message>
         <source>Information</source>
         <translation>Inligting</translation>
+    </message>
+    <message>
+        <source>Node relay options:</source>
+        <translation>Node aflos opsies:</translation>
+    </message>
+    <message>
+        <source>RPC server options:</source>
+        <translation>RPC bediener opsies:</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
@@ -1918,8 +1978,56 @@
         <translation>Waarskuwing</translation>
     </message>
     <message>
+        <source>Do not keep transactions in the mempool longer than &lt;n&gt; hours (default: %u)</source>
+        <translation>Moenie transaksies vir langer as &lt;n&gt; ure in die geheuepoel hou nie (verstek: %u)</translation>
+    </message>
+    <message>
         <source>%s is set very high!</source>
         <translation>%s is baie hoog gestel!</translation>
+    </message>
+    <message>
+        <source>(default: %s)</source>
+        <translation>(standaard: %s)</translation>
+    </message>
+    <message>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
+        <translation>Luister vir JSON-RPC konneksies op &lt;port&gt; (verstek: %u of testnet: %u)</translation>
+    </message>
+    <message>
+        <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
+        <translation>Luister vir konneksies op &lt;port&gt; (verstek: %u of testnet: %u)</translation>
+    </message>
+    <message>
+        <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>
+        <translation>Handhaaf hoogstens &lt;n&gt; verbindings na portuurs (verstek: %u)</translation>
+    </message>
+    <message>
+        <source>Make the wallet broadcast transactions</source>
+        <translation>Maak dat die beursie transaksies uitsaai</translation>
+    </message>
+    <message>
+        <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
+        <translation>Maksimum per-konneksie ontvang buffer, &lt;n&gt;*1000 grepe (verstek: %u)</translation>
+    </message>
+    <message>
+        <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
+        <translation>Maksimum per-konneksie stuur buffer, &lt;n&gt;*1000 grepe (verstek: %u)</translation>
+    </message>
+    <message>
+        <source>Prepend debug output with timestamp (default: %u)</source>
+        <translation>Voeg ontfout-uitset met tydstempel by (verstek: %u)</translation>
+    </message>
+    <message>
+        <source>Specify configuration file (default: %s)</source>
+        <translation>Spesifiseer konfigurasie lêer (verstek: %s)</translation>
+    </message>
+    <message>
+        <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>
+        <translation>Spesifiseer konneksie timeout in millisekondes (minimum: 1, verstek: %d)</translation>
+    </message>
+    <message>
+        <source>Specify pid file (default: %s)</source>
+        <translation>Spesifiseer pid lêer (verstek: %s)</translation>
     </message>
     <message>
         <source>Starting network threads...</source>
@@ -1932,6 +2040,10 @@
     <message>
         <source>This is the transaction fee you will pay if you send a transaction.</source>
         <translation>Dit is die transaksie fooi wat u sal betaal as u 'n transaksie stuur.</translation>
+    </message>
+    <message>
+        <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
+        <translation>Drumpel vir die ontkoppel van misdadige portuurs (verstek: %u)</translation>
     </message>
     <message>
         <source>Transaction amounts must not be negative</source>
@@ -1947,7 +2059,7 @@
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>Onbekende netwerk gespesifiseer in -onlynet: '%s'</translation>
+        <translation>Onbekend netwerk gespesifiseer in -onlynet: '%s'</translation>
     </message>
     <message>
         <source>Insufficient funds</source>

@@ -30,10 +30,6 @@
         <translation>Ilako ya ing kasalungsungan makapiling address keng listahan</translation>
     </message>
     <message>
-        <source>Enter address or label to search</source>
-        <translation>Magpalub kang address o label para pantunan</translation>
-    </message>
-    <message>
         <source>&amp;Delete</source>
         <translation>&amp;Ilako</translation>
     </message>
@@ -126,8 +122,8 @@
         <translation>Address king pamag-Tanggap</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Magpadalang barya king Litecoin address</translation>
+        <source>Send coins to a CateCoin address</source>
+        <translation>Magpadalang barya king CateCoin address</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -150,8 +146,8 @@
         <translation>&amp;Beripikan ing message...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -277,7 +273,15 @@
         <source>Command-line options</source>
         <translation>Pipamilian command-line</translation>
     </message>
-</context>
+    <message>
+        <source>Usage:</source>
+        <translation>Pamanggamit:</translation>
+    </message>
+    <message>
+        <source>command-line options</source>
+        <translation>pipamilian command-line</translation>
+    </message>
+    </context>
 <context>
     <name>Intro</name>
     <message>
@@ -285,8 +289,8 @@
         <translation>Malaus ka</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -322,8 +326,8 @@
         <translation>&amp;Network</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ibuklat yang antimanu ing Litecoin client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
+        <source>Automatically open the CateCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ibuklat yang antimanu ing CateCoin client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -401,8 +405,8 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng Litecoin network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CateCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng CateCoin network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -532,10 +536,6 @@
         <source>Copy &amp;Address</source>
         <translation>&amp;Kopyan ing address</translation>
     </message>
-    <message>
-        <source>Wallet</source>
-        <translation>Wallet</translation>
-    </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
@@ -581,10 +581,6 @@
     <message>
         <source>S&amp;end</source>
         <translation>Ipadala</translation>
-    </message>
-    <message>
-        <source>Transaction fee</source>
-        <translation>Bayad king Transaksion</translation>
     </message>
     </context>
 <context>
@@ -663,8 +659,8 @@
         <translation>Kopyan ing kasalungsungan pirma king system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Pirman ing mensayi ban patune na keka ya ining Litecoin address</translation>
+        <source>Sign the message to prove you own this CateCoin address</source>
+        <translation>Pirman ing mensayi ban patune na keka ya ining CateCoin address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -683,8 +679,8 @@
         <translation>&amp;Beripikan ing Mensayi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling Litecoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified CateCoin address</source>
+        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling CateCoin address</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -736,8 +732,40 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Kapilubluban ning Litecoin</translation>
+        <source>Options:</source>
+        <translation>Pipamilian:</translation>
+    </message>
+    <message>
+        <source>Specify data directory</source>
+        <translation>Pilinan ing data directory</translation>
+    </message>
+    <message>
+        <source>Connect to a node to retrieve peer addresses, and disconnect</source>
+        <translation>Kumunekta king note ban ayakua mula reng peer address, at mako king panga konekta</translation>
+    </message>
+    <message>
+        <source>Specify your own public address</source>
+        <translation>Sabyan me ing kekang pampublikong address</translation>
+    </message>
+    <message>
+        <source>Accept command line and JSON-RPC commands</source>
+        <translation>Tumanggap command line at JSON-RPC commands</translation>
+    </message>
+    <message>
+        <source>Run in the background as a daemon and accept commands</source>
+        <translation>Gumana king gulut bilang daemon at tumanggap commands</translation>
+    </message>
+    <message>
+        <source>CateCoin Core</source>
+        <translation>Kapilubluban ning CateCoin</translation>
+    </message>
+    <message>
+        <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
+        <translation>Tumanggap koneksion menibat king kilwal (default: 1 if no -proxy or -connect)</translation>
+    </message>
+    <message>
+        <source>Block creation options:</source>
+        <translation>Pipamilian king pamag-gawang block:</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -768,12 +796,32 @@
         <translation>&amp;Impormasion</translation>
     </message>
     <message>
+        <source>Send trace/debug info to console instead of debug.log file</source>
+        <translation>Magpadalang trace/debug info okeng console kesa keng debug.log file</translation>
+    </message>
+    <message>
         <source>Transaction too large</source>
         <translation>Maragul yang masiadu ing transaksion</translation>
     </message>
     <message>
+        <source>Username for JSON-RPC connections</source>
+        <translation>Username para king JSON-RPC koneksion</translation>
+    </message>
+    <message>
         <source>Warning</source>
         <translation>Kapabaluan</translation>
+    </message>
+    <message>
+        <source>Password for JSON-RPC connections</source>
+        <translation>Password para king JSON-RPC koneksion</translation>
+    </message>
+    <message>
+        <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
+        <translation>I-execute ing command istung mialilan ya ing best block (%s in cmd is replaced by block hash)</translation>
+    </message>
+    <message>
+        <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
+        <translation>Payagan ing pamaglawe DNS para king -addnode, -seednode and -connect</translation>
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>

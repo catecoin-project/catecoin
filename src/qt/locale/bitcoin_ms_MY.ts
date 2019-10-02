@@ -30,11 +30,6 @@
         <translation>Padam alamat semasa yang dipilih dari senaraiyang dipilih dari senarai</translation>
     </message>
     <message>
-        <source>Enter address or label to search</source>
-        <translation>Masukkan alamat atau label untuk carian
-</translation>
-    </message>
-    <message>
         <source>Export the data in the current tab to a file</source>
         <translation>
 Alihkan fail data ke dalam tab semasa</translation>
@@ -68,12 +63,12 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>alamat-alamat penerimaan</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ini adalah alamat Litecoin anda untuk pembayaran. Periksa jumlah dan alamat penerima sebelum membuat penghantaran koin sentiasa.</translation>
+        <source>These are your CateCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ini adalah alamat CateCoin anda untuk pembayaran. Periksa jumlah dan alamat penerima sebelum membuat penghantaran koin sentiasa.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ini adalah alamat Litecoin anda untuk menerima pembayaraan.  Anda disyorkan untuk menguna alamat menerima untuk setiap transaksi.</translation>
+        <source>These are your CateCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ini adalah alamat CateCoin anda untuk menerima pembayaraan.  Anda disyorkan untuk menguna alamat menerima untuk setiap transaksi.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -138,11 +133,6 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>Ulangi frasa laluan baru</translation>
     </message>
     <message>
-        <source>Show password</source>
-        <translation>Tunjukkan kata laluan
-</translation>
-    </message>
-    <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
         <translation>Memasukkan frasa laluan baru kepada dompet.&lt;br/&gt;Sila mengunakkan frasa laluan yang&lt;b&gt;mengandungi 10 atau lebih aksara rawak&lt;/b&gt;,ataupun&lt;b&gt;lapan atau lebih perkataan.&lt;/b&gt;</translation>
     </message>
@@ -179,8 +169,8 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>Mengesahkan enkripsi dompet</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Amaran: Jika anda enkripkan dompet anda dan hilangkan frasa laluan, anda akan &lt;b&gt;ANDA AKAN HILANGKAN SEMUA LITECOIN ANDA&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CATECOINS&lt;/b&gt;!</source>
+        <translation>Amaran: Jika anda enkripkan dompet anda dan hilangkan frasa laluan, anda akan &lt;b&gt;ANDA AKAN HILANGKAN SEMUA CATECOIN ANDA&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -191,8 +181,8 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>Dompet dienkripsi</translation>
     </message>
     <message>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 akan tutup untuk menyelesaikan proses enkripsi. Ingat bahawa enkripsi tidak boleh melidungi sepenuhnya litecoins anda daripada dicuri oleh malware yang menjangkiti komputer anda.</translation>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your catecoins from being stolen by malware infecting your computer.</source>
+        <translation>%1 akan tutup untuk menyelesaikan proses enkripsi. Ingat bahawa enkripsi tidak boleh melidungi sepenuhnya catecoins anda daripada dicuri oleh malware yang menjangkiti komputer anda.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -329,15 +319,6 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>Buka &amp;URI...</translation>
     </message>
     <message>
-        <source>Wallet:</source>
-        <translation>dompet</translation>
-    </message>
-    <message>
-        <source>default wallet</source>
-        <translation>dompet lalai
-</translation>
-    </message>
-    <message>
         <source>Click to disable network activity.</source>
         <translation>Tekan untuk lumpuhkan rangkaian</translation>
     </message>
@@ -358,8 +339,8 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>Reindexi blok pada cakera...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Menghantar koin kepada alamat Litecoin</translation>
+        <source>Send coins to a CateCoin address</source>
+        <translation>Menghantar koin kepada alamat CateCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -382,8 +363,8 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>sahkan mesej</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -410,12 +391,12 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>sulitkan kata laluan milik peribadi anda </translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>sahkan mesej bersama alamat litecoin anda untuk menunjukkan alamat ini anda punya</translation>
+        <source>Sign messages with your CateCoin addresses to prove you own them</source>
+        <translation>sahkan mesej bersama alamat catecoin anda untuk menunjukkan alamat ini anda punya</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Sahkan mesej untuk memastikan mereka telah ditandatangani dengan alamat Litecoin yang ditentukan</translation>
+        <source>Verify messages to ensure they were signed with specified CateCoin addresses</source>
+        <translation>Sahkan mesej untuk memastikan mereka telah ditandatangani dengan alamat CateCoin yang ditentukan</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -428,21 +409,6 @@ Alihkan fail data ke dalam tab semasa</translation>
     <message>
         <source>&amp;Help</source>
         <translation>tolong</translation>
-    </message>
-    <message>
-        <source>Tabs toolbar</source>
-        <translation>Bar alat tab
-</translation>
-    </message>
-    <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Request payments (generates QR codes and litecoin: URIs)
-</translation>
-    </message>
-    <message>
-        <source>Show the list of used sending addresses and labels</source>
-        <translation>Tunjukkan senarai alamat dan label yang digunakan
-</translation>
     </message>
     </context>
 <context>
@@ -472,8 +438,8 @@ Alihkan fail data ke dalam tab semasa</translation>
 <context>
     <name>Intro</name>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CateCoin</source>
+        <translation>CateCoin</translation>
     </message>
     </context>
 <context>
@@ -505,11 +471,6 @@ Alihkan fail data ke dalam tab semasa</translation>
     </context>
 <context>
     <name>RPCConsole</name>
-    <message>
-        <source>default wallet</source>
-        <translation>dompet lalai
-</translation>
-    </message>
     </context>
 <context>
     <name>ReceiveCoinsDialog</name>
@@ -527,10 +488,6 @@ Alihkan fail data ke dalam tab semasa</translation>
     <message>
         <source>Label</source>
         <translation>Label</translation>
-    </message>
-    <message>
-        <source>Wallet</source>
-        <translation>dompet</translation>
     </message>
     </context>
 <context>

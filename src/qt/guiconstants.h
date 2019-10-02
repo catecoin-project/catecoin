@@ -1,4 +1,4 @@
-// Copyright (c) 2011-2018 The Bitcoin Core developers
+// Copyright (c) 2011-2016 The Bitcoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -46,9 +46,9 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 36
 
-#define QAPP_ORG_NAME "Litecoin"
-#define QAPP_ORG_DOMAIN "litecoin.org"
-#define QAPP_APP_NAME_DEFAULT "Litecoin-Qt"
-#define QAPP_APP_NAME_TESTNET "Litecoin-Qt-testnet"
+#define QAPP_ORG_NAME "CateCoin"
+#define QAPP_ORG_DOMAIN "catecoin.org"
+#define QAPP_APP_NAME_DEFAULT "CateCoin-Qt"
+#define QAPP_APP_NAME_TESTNET "CateCoin-Qt-testnet"
 
 #endif // BITCOIN_QT_GUICONSTANTS_H

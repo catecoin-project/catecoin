@@ -70,7 +70,7 @@
         <translation>Құпия сөзді өзгерту</translation>
     </message>
     <message>
-        <source>Litecoin</source>
+        <source>CateCoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -169,7 +169,7 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Litecoin</source>
+        <source>CateCoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -236,10 +236,6 @@
     </context>
 <context>
     <name>ReceiveRequestDialog</name>
-    <message>
-        <source>Wallet</source>
-        <translation>Әмиян</translation>
-    </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
