@@ -3,7 +3,7 @@ CateCoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/catecoin-project/catecoin.svg?branch=master)](https://travis-ci.org/catecoin-project/catecoin)
 
-https://catecoin.org
+https://catecoin.net
 
 What is CateCoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. CateCoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the CateCoin Core software, see [https://catecoin.org](https://catecoin.org).
+the CateCoin Core software, see [https://catecoin.net](https://catecoin.net).
 
 License
 -------

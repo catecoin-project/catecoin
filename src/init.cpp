@@ -530,7 +530,7 @@ std::string HelpMessage(HelpMessageMode mode)
 std::string LicenseInfo()
 {
     const std::string URL_SOURCE_CODE = "<https://github.com/catecoin-project/catecoin>";
-    const std::string URL_WEBSITE = "<https://catecoin.org>";
+    const std::string URL_WEBSITE = "<https://catecoin.net>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +

@@ -47,7 +47,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "CateCoin"
-#define QAPP_ORG_DOMAIN "catecoin.org"
+#define QAPP_ORG_DOMAIN "catecoin.net"
 #define QAPP_APP_NAME_DEFAULT "CateCoin-Qt"
 #define QAPP_APP_NAME_TESTNET "CateCoin-Qt-testnet"
 

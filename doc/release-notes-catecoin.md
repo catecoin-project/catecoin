@@ -1,6 +1,6 @@
 CateCoin Core version 0.16.3 is now available from:
 
-  <https://download.catecoin.org/catecoin-0.16.3/>
+  <https://download.catecoin.net/catecoin-0.16.3/>
 
 This is a new minor version release, with various bugfixes
 as well as updated translations.
