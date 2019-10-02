@@ -5,6 +5,9 @@ CateCoin Core integration/staging tree
 
 https://catecoin.net
 
+### Troubles connecting?
+add ```connect=149.248.10.178``` to catecoin.conf file or type ```addnode "149.248.10.178" "add"``` to console (or catecoin-cli)
+
 What is CateCoin?
 ----------------
 
