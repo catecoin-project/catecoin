@@ -26,6 +26,13 @@ make install # optional
 
 This will build catecoin-qt as well if the dependencies are met.
 
+If you have problems with installing use lxc,
+```
+sudo snap install lxd
+lxd init # Configure lxd and allow it to access internet
+lxc launch ubuntu:16.04 catecoin
+lxc exec catecoin su # this should give you access to virtual machine, compile cate inside of it.
+```
 Dependencies
 ---------------------
 
